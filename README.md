@@ -1,1 +1,1 @@
-# hotelbooking_database
+# hotel booking and management system
